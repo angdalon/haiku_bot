@@ -1,4 +1,4 @@
-# haiku_bot
+# haiku_bot twitter.com/haiku_septem
 
 A short script I have deployed and scheduled on PythonAnywhere. 
 It posts one randomized tweet daily.
